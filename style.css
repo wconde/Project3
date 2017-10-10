@@ -43,5 +43,9 @@ body{
 #Description span{
 	color:#CF1111;
 }
+.body{
+	display: block;
+	margin: 0 auto;
+}
 
 
